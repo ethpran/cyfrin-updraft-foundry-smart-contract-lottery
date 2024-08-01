@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+
+json.json
+coverage.txt
+/lib
+broadcast/

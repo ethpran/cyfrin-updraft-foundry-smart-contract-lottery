@@ -27,6 +27,8 @@ $ forge build
 $ forge test
 ```
 
+Requires env vars. Should set a .env file 
+
 ### Format
 
 ```shell
